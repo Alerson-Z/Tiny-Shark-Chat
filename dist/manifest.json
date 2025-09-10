@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Tiny Shark Chat",
+  "version": "0.1.0",
+  "description": "A multi-provider AI Chat assistant.",
+  "permissions": ["storage"],
+  "action": {
+    "default_icon": {
+       "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "options_page": "options.html",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
