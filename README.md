@@ -1,5 +1,5 @@
-# AI Chat Chrome 插件：技术文档
-
+# Tiny-Shark-Chat Chrome 插件：技术文档
+![Tiny-Shark-Chat](./iconshark.jpg)
 ## 1. 项目概述
 
 这是一个功能丰富的 Google Chrome 浏览器扩展程序，旨在提供一个集成的 AI 聊天界面。它支持与多个大型语言模型（LLM）提供商（如 Google Gemini、OpenAI 和 Cerebras）进行交互，并提供对话历史管理、Markdown 渲染、文件/图片上传以及消息操作（复制、导出 PDF）等功能。
